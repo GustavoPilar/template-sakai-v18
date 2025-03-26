@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('assets/layout/styles/layout/layout.scss');
+
+@import url('primeng/resources/primeng.css');
+@import url('primeicons/primeicons.css');
+
+@import url('../node_modules/primeflex/primeflex.scss');
+
+@import url('assets/demo/styles/flags/flags.css');
+@import url('assets/demo/styles/badges.scss');
+@import url('assets/demo/styles/code.css');
